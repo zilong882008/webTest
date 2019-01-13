@@ -60,7 +60,7 @@
           href="http://vuex.vuejs.org/"
           target="_blank"
         >
-          vuex test1
+          vuex test1 test3
         </a>
       </li>
       <li>
